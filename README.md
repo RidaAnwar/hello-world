@@ -1,2 +1,2 @@
 # hello-world
-I am new to Gitgub
+I am new to GitHub
